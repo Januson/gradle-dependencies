@@ -14,4 +14,4 @@ gradle-test-logger-plugin = "com.adarshr:gradle-test-logger-plugin:3.2.0"
 groovy = ["groovy-core", "groovy-json", "groovy-nio"]
 
 [plugins]
-jmh = { id = "me.champeau.jmh", version = "0.6.7" }
+jmh = { id = "me.champeau.jmh", version = "0.7.2" }

@@ -4,7 +4,7 @@ import org.gradle.script.lang.kotlin.setValue
 
 var projectConfiguration: ProjectConfiguration by extra
 
-val openapiGeneratorPlugin = "org.openapitools:openapi-generator-gradle-plugin:6.0.1"
+val openapiGeneratorPlugin = "org.openapitools:openapi-generator-gradle-plugin:7.4.0"
 val nebulaLintPlugin = "com.netflix.nebula:gradle-lint-plugin:18.0.3"
 
 projectConfiguration = ProjectConfiguration(

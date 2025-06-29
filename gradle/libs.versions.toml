@@ -6,7 +6,7 @@ checkstyle = "8.37"
 groovy-core = { module = "org.codehaus.groovy:groovy", version.ref = "groovy" }
 groovy-json = { module = "org.codehaus.groovy:groovy-json", version.ref = "groovy" }
 groovy-nio = { module = "org.codehaus.groovy:groovy-nio", version.ref = "groovy" }
-junit-api = { module = "org.junit.jupiter:junit-jupiter-api", version = "5.8.1" }
+junit-api = { module = "org.junit.jupiter:junit-jupiter-api", version = "5.13.2" }
 junit-engine = { module = "org.junit.jupiter:junit-jupiter-engine", version = "5.8.1" }
 gradle-test-logger-plugin = "com.adarshr:gradle-test-logger-plugin:3.2.0"
 
